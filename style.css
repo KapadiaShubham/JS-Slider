@@ -7,7 +7,7 @@
 .container {
     margin: 0 auto;
     width: 40%;
-    height: 400px;
+    /* height: 400px; */
     position: relative;
     overflow: hidden;
 }
